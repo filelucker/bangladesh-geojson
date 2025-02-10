@@ -193,15 +193,6 @@
 					"division_id": "3",
 					"district_id": "1",
 					"city_corporation": "Dhaka North",
-					"name": "Bashundhara R/A",
-					"bn_name": "বসুন্ধরা রেজিডেন্সিয়াল এলাকা",
-					"postOffice": "Vatara, Khilkhet",
-					"postCode": "1212, 1229"
-				},
-				{
-					"division_id": "3",
-					"district_id": "1",
-					"city_corporation": "Dhaka North",
 					"name": "Tongi",
 					"bn_name": "টঙ্গি",
 					"postOffice": "Gazipur",
@@ -386,15 +377,6 @@
 					"bn_name": "মোহাম্মদপুর",
 					"postOffice": "Mohammadpur Housing Estate",
 					"postCode": "1207"
-				},
-				{
-					"division_id": "3",
-					"district_id": "1",
-					"city_corporation": "Dhaka North",
-					"name": "Farmgate",
-					"bn_name": "ফার্মগেট",
-					"postOffice": "Tejgaon",
-					"postCode": "1215"
 				},
 				{
 					"division_id": "3",
@@ -589,28 +571,10 @@
 					"division_id": "3",
 					"district_id": "1",
 					"city_corporation": "Dhaka North",
-					"name": "Banani",
-					"bn_name": "বনানী",
-					"postOffice": "Banani",
-					"postCode": "1213"
-				},
-				{
-					"division_id": "3",
-					"district_id": "1",
-					"city_corporation": "Dhaka North",
 					"name": "Baridhara",
 					"bn_name": "বারিধারা",
 					"postOffice": "Dhaka Cant.",
 					"postCode": "1206"
-				},
-				{
-					"division_id": "3",
-					"district_id": "1",
-					"city_corporation": "Dhaka North",
-					"name": "Bashundhara",
-					"bn_name": "বসুন্ধরা",
-					"postOffice": "Vatara",
-					"postCode": "1212"
 				},
 				{
 					"division_id": "3",
@@ -692,15 +656,6 @@
 					"bn_name": "ঢাকা ক্যান্টনমেন্ট",
 					"postOffice": "Dhaka Cant.",
 					"postCode": "1206"
-				},
-				{
-					"division_id": "3",
-					"district_id": "1",
-					"city_corporation": "Dhaka North",
-					"name": "Mirpur Cantonment",
-					"bn_name": "মিরপুর ক্যান্টনমেন্ট",
-					"postOffice": "Mirpur",
-					"postCode": "1216"
 				},
 				{
 					"division_id": "3",
@@ -877,15 +832,6 @@
 					"division_id": "3",
 					"district_id": "1",
 					"city_corporation": "Dhaka South",
-					"name": "Bashabo",
-					"bn_name": "বাসাবো",
-					"postOffice": "Bashabo",
-					"postCode": "1214"
-				},
-				{
-					"division_id": "3",
-					"district_id": "1",
-					"city_corporation": "Dhaka South",
 					"name": "Shantibagh",
 					"bn_name": "শান্তিবাগ",
 					"postOffice": "Shantinagar",
@@ -944,15 +890,6 @@
 					"bn_name": "কমলাপুর",
 					"postOffice": "Bashabo",
 					"postCode": "1214"
-				},
-				{
-					"division_id": "3",
-					"district_id": "1",
-					"city_corporation": "Dhaka North",
-					"name": "Basundhara R/A",
-					"bn_name": "বসুন্ধরা আর/এ",
-					"postOffice": "Vatara, Khilkhet",
-					"postCode": "1212, 1229"
 				},
 				{
 					"division_id": "3",
