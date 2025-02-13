@@ -85,9 +85,9 @@
 					"division_id": "3",
 					"district_id": "1",
 					"city_corporation": "Dhaka North",
-					"name": "Dhaka Cantonmen",
+					"name": "Dhaka Cantonment",
 					"bn_name": "ঢাকা ক্যান্টনমেন্ট",
-					"postOffice": "Dhaka Cantonmen",
+					"postOffice": "Dhaka Cantonment",
 					"postCode": "1206"
 				},
 				{
@@ -517,9 +517,9 @@
 					"division_id": "3",
 					"district_id": "1",
 					"city_corporation": "Dhaka South",
-					"name": "Nawabgonj",
+					"name": "Nawabganj",
 					"bn_name": "নবাবগঞ্জ",
-					"postOffice": "Nawabgonj",
+					"postOffice": "Nawabganj",
 					"postCode": "1320"
 				},
 				{
@@ -760,15 +760,6 @@
 					"division_id": "3",
 					"district_id": "1",
 					"city_corporation": "Dhaka South",
-					"name": "Nawabganj",
-					"bn_name": "নবাবগঞ্জ",
-					"postOffice": "Nawabganj",
-					"postCode": "1320"
-				},
-				{
-					"division_id": "3",
-					"district_id": "1",
-					"city_corporation": "Dhaka South",
 					"name": "Zigatoal",
 					"bn_name": "ঝিগাতলা",
 					"postOffice": "Zigatola",
@@ -870,7 +861,7 @@
 					"city_corporation": "Dhaka South",
 					"name": "Mohammadpur Krishi Market",
 					"bn_name": "মোহাম্মদপুর কৃষি মার্কেট",
-					"postOffice": "Mohammadpur Hosuing",
+					"postOffice": "Mohammadpur Housing",
 					"postCode": "1207"
 				},
 				{
