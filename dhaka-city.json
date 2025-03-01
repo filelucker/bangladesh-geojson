@@ -652,15 +652,6 @@
 					"division_id": "3",
 					"district_id": "1",
 					"city_corporation": "Dhaka North",
-					"name": "Dhaka Cantonment",
-					"bn_name": "ঢাকা ক্যান্টনমেন্ট",
-					"postOffice": "Dhaka Cant.",
-					"postCode": "1206"
-				},
-				{
-					"division_id": "3",
-					"district_id": "1",
-					"city_corporation": "Dhaka North",
 					"name": "Uttar Khan",
 					"bn_name": "উত্তর খান",
 					"postOffice": "Uttara",
@@ -669,27 +660,9 @@
 				{
 					"division_id": "3",
 					"district_id": "1",
-					"city_corporation": "Dhaka North",
-					"name": "Darus Salam",
-					"bn_name": "দারুস সালাম",
-					"postOffice": "Mirpur",
-					"postCode": "1216"
-				},
-				{
-					"division_id": "3",
-					"district_id": "1",
 					"city_corporation": "Dhaka South",
 					"name": "Khilkhet",
 					"bn_name": "খিলক্ষেত",
-					"postOffice": "Khilkhet",
-					"postCode": "1229"
-				},
-				{
-					"division_id": "3",
-					"district_id": "1",
-					"city_corporation": "Dhaka North",
-					"name": "Nikunja",
-					"bn_name": "নিকুঞ্জ",
 					"postOffice": "Khilkhet",
 					"postCode": "1229"
 				},
@@ -716,7 +689,7 @@
 					"district_id": "1",
 					"city_corporation": "Dhaka North",
 					"name": "Middle Badda",
-					"bn_name": "মধ্য বড্ডা",
+					"bn_name": "মধ্য বাড্ডা",
 					"postOffice": "Gulshan",
 					"postCode": "1212"
 				},
@@ -734,7 +707,7 @@
 					"district_id": "1",
 					"city_corporation": "Dhaka North",
 					"name": "North Badda",
-					"bn_name": "উত্তর বড্ডা",
+					"bn_name": "উত্তর বাড্ডা",
 					"postOffice": "Gulshan",
 					"postCode": "1212"
 				},
@@ -777,33 +750,6 @@
 				{
 					"division_id": "3",
 					"district_id": "1",
-					"city_corporation": "Dhaka North",
-					"name": "Uttara",
-					"bn_name": "উত্তরা",
-					"postOffice": "Uttara Model Town",
-					"postCode": "1230"
-				},
-				{
-					"division_id": "3",
-					"district_id": "1",
-					"city_corporation": "Dhaka North",
-					"name": "Mohakhali",
-					"bn_name": "মহাখালী",
-					"postOffice": "Gulshan",
-					"postCode": "1212"
-				},
-				{
-					"division_id": "3",
-					"district_id": "1",
-					"city_corporation": "Dhaka North",
-					"name": "Badda",
-					"bn_name": "বড্ডা",
-					"postOffice": "Gulshan",
-					"postCode": "1212"
-				},
-				{
-					"division_id": "3",
-					"district_id": "1",
 					"city_corporation": "Dhaka South",
 					"name": "Bashabo",
 					"bn_name": "বাসাবো",
@@ -815,7 +761,7 @@
 					"district_id": "1",
 					"city_corporation": "Dhaka North",
 					"name": "Merul Badda",
-					"bn_name": "মেরুল বড্ডা",
+					"bn_name": "মেরুল বাড্ডা",
 					"postOffice": "Gulshan",
 					"postCode": "1212"
 				},
@@ -957,18 +903,9 @@
 				{
 					"division_id": "3",
 					"district_id": "1",
-					"city_corporation": "Dhaka South",
-					"name": "Zigatola",
-					"bn_name": "জিগাতোলা",
-					"postOffice": "Zigatola",
-					"postCode": "1209"
-				},
-				{
-					"division_id": "3",
-					"district_id": "1",
 					"city_corporation": "Dhaka North",
 					"name": "Badda Link Road",
-					"bn_name": "বড্ডা লিংক রোড",
+					"bn_name": "বাড্ডা লিংক রোড",
 					"postOffice": "Gulshan",
 					"postCode": "1212"
 				},
